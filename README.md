@@ -1,2 +1,2 @@
-# A-Blog-Page
-A simple static blog web page
+# Blog
+ A simple static blog page
