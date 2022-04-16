@@ -136,3 +136,40 @@ body {
         padding: 20px
     }
 }
+
+.main-footer {
+    position: relative;
+    display: block;
+    padding: 25px 0;
+    background-color: #3aafa9;
+    text-align: center;
+}
+
+.main-footer .logo {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.main-footer .text {
+    font-size: 16px;
+    line-height: 22px;
+    color: #0f0f0f;
+    margin-bottom: 20px;
+}
+
+.main-footer .copyright-text {
+    font-size: 14px;
+    color: #f0eff6;
+}
+
+.main-footer .copyright-text a {
+    display: inline-block;
+    font-size: 14px;
+    color: #7d07e5;
+    text-decoration: underline;
+}
+
+.Typewriter__cursor {
+    display: none;
+}
